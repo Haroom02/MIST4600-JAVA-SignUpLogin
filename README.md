@@ -59,7 +59,21 @@ This ReadME file includes both English & Korean Explanation.
 * #### 관리자 옵션 4: 메인 메뉴로
 
 ### 일반 사용자 로그인
+* #### 티켓 선택 및 확인
+  1. 티켓 종류 선택
+  2. 티켓 개수 선택
+  3. 최종 티켓 종류 & 개수 & 금액 확인
+  
 * #### 결제 정보 입력
+  1. 카드번호 입력 (16자리 - 1234 1234 1234 1234)
+  2. 카드유효기간 입력 (MMYY 형식)
+  3. 카드 CVV (3 digits)
+  4. 휴대폰 번호 (XXX XXX XXXX 미국 번호 형식)
+  5. 카드 소유자 이름
+
+<br/>
+
+Payment가 한번 완료되면, Administrator 계정으로 들어가 ID를 검색해 지불내역을 확인할 수 있다.
 
 <br/>
 
