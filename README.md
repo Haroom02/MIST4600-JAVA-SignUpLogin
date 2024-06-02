@@ -87,8 +87,7 @@ Payment가 한번 완료되면, Administrator 계정으로 들어가 ID를 검�
 <img width="731" alt="UML Diagram (bottom) - Minwoo Park" src="https://github.com/Haroom02/MIST4600-JAVA-SignUpLogin/assets/163201310/bf842d08-e150-4189-a13e-8ec7c89d25c9">
 
 
-조지아대학 MIST4600 (Computer Programming in Business) 수업에서 배운 것을 토대로
-조지아대학 풋볼 티켓 시스템의 회원가입 & 로그인을 구현한 코드 입니다.
+
 
 <br/>
 
